@@ -1,0 +1,45 @@
+## USB 2.0 - ONBOARD
+
+3. UK03 | AppleUSB20XHCIPort | 3 (03000000) | 14300000 | Type 3
+4. UK04 | AppleUSB20XHCIPort | 4 (04000000) | 14400000 | Type 3
+
+## USB 2.0 - FRONTAL
+
+6. UK06 | AppleUSB20XHCIPort | 6 (06000000) | 14600000 | Type 3
+
+## USB 2.0 - FRONTAL AZUL
+
+9. UK09 | AppleUSB20XHCIPort | 9 (09000000) | 14900000 | Type 3
+10. UK10 | AppleUSB20XHCIPort | 10 (0a000000) | 14a00000 | Type 3
+
+## USB 2.0 - TOPO AZUL
+
+11. UK11 | AppleUSB20XHCIPort | 11 (0b000000) | 14b00000 | Type 3
+12. UK12 | AppleUSB20XHCIPort | 12 (0c000000) | 14c00000 | Type 3
+
+T:3,4,6,9,10,11,12:0
+
+## USB 3.0 - Audio
+
+17. UK17 | AppleUSB30XHCIPort | 17 (11000000) | 14100000 | Type 3 - Audio
+18. UK18 | AppleUSB30XHCIPort | 18 (12000000) | 14200000 | Type 3 - Audio
+
+## USB 3.0 - Frontal
+
+19. UK19 | AppleUSB30XHCIPort | 19 (13000000) | 14300000 | Type 3 - Frontal
+20. UK20 | AppleUSB30XHCIPort | 20 (14000000) | 14400000 | Type 3 - Frontal
+
+## USB 3.0 - Topo
+
+21. UK21 | AppleUSB30XHCIPort | 21 (15000000) | 14500000 | Type 3 - Topo
+22. UK22 | AppleUSB30XHCIPort | 22 (16000000) | 14600000 | Type 3 - Topo
+
+T:17,18,19,20,21,22:3
+
+## Internal
+
+7.  UK07 | AppleUSB20XHCIPort | 7 (07000000) | 14700000 | Type 3 - Bluetooth
+
+T:7:255
+
+PORTAS HABILITADAS: 3,4,6,9,10,11,12,17,18,19,20,21,22,7

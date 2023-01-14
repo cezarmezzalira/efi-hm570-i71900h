@@ -27,7 +27,7 @@ Sucessful Big Sur installation with 11th Generation CPU and B560M Aorus Elite mo
 
 - Wifi: native
 - GPU: native working until Big Sur
-- USB: `USBMap.kext` with onboard only
+- USB: `USBMap.kext` With onboard, internal and case ports mapped
 
 ## Important thing if you use this EFI:
 
